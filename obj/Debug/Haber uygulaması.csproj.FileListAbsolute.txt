@@ -1,0 +1,11 @@
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\bin\Debug\Haber uygulaması.exe.config
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\bin\Debug\Haber uygulaması.exe
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\bin\Debug\Haber uygulaması.pdb
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber uygulaması.csproj.AssemblyReference.cache
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber_uygulaması.Properties.Resources.resources
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber uygulaması.csproj.GenerateResource.cache
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber uygulaması.exe
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber uygulaması.pdb
+C:\Users\Kubi\source\repos\Haber uygulaması\Haber uygulaması\obj\Debug\Haber_uygulaması.HABER.resources
